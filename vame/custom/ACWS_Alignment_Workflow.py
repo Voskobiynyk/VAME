@@ -7,7 +7,7 @@ Created on Mon Nov 23 11:30:24 2020
 """
 
 import os
-os.chdir('/d1/studies/VAME/')
+#os.chdir('/d1/studies/VAME/')
 import cv2 as cv
 import numpy as np
 import pandas as pd
