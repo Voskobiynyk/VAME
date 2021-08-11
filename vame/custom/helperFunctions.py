@@ -9,7 +9,7 @@ Created on Wed May 20 13:52:04 2020
 import numpy as np
 import pandas as pd
 import os
-os.chdir('/d1/studies/VAME')
+#os.chdir('/d1/studies/VAME')
 from pathlib import Path
 from vame.util.auxiliary import read_config
 from scipy.stats import ttest_ind
